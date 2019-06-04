@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print(message)
         
         
+        print(reverse(text: "stressed"))
     }
 
     
