@@ -13,6 +13,7 @@
 		731B715D22A636BE0056D423 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 731B715C22A636BE0056D423 /* Assets.xcassets */; };
 		731B716022A636BE0056D423 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 731B715E22A636BE0056D423 /* LaunchScreen.storyboard */; };
 		731B716822A649050056D423 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 731B716722A649050056D423 /* SecondViewController.swift */; };
+		731B716A22A795280056D423 /* testing in Resources */ = {isa = PBXBuildFile; fileRef = 731B716922A795280056D423 /* testing */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		731B715F22A636BE0056D423 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		731B716122A636BE0056D423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		731B716722A649050056D423 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		731B716922A795280056D423 /* testing */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = testing; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		731B715422A636BD0056D423 /* GithubDemoapp */ = {
 			isa = PBXGroup;
 			children = (
+				731B716922A795280056D423 /* testing */,
 				731B715522A636BD0056D423 /* AppDelegate.swift */,
 				731B715722A636BD0056D423 /* ViewController.swift */,
 				731B716722A649050056D423 /* SecondViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				731B716022A636BE0056D423 /* LaunchScreen.storyboard in Resources */,
+				731B716A22A795280056D423 /* testing in Resources */,
 				731B715D22A636BE0056D423 /* Assets.xcassets in Resources */,
 				731B715B22A636BD0056D423 /* Main.storyboard in Resources */,
 			);
